@@ -9,6 +9,8 @@ body {
     line-height: 1.6;
 }
 
+
+
 header div {
     text-align: center;
     margin: 20px;
@@ -83,6 +85,12 @@ footer p {
 }
 
 @media (max-width: 768px) {
+    header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
     header div img {
         width: 100%;
         height: auto;
