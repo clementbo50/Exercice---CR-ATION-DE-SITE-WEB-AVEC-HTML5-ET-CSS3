@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header div {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+header h1 {
+    text-align: center;
+    color : #1db93f;
+    margin-bottom: 2.3rem;
+}
