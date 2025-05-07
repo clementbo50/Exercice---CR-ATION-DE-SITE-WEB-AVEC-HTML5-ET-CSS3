@@ -19,7 +19,7 @@ Ce dépôt contient un exercice pratique visant à concevoir une page web respon
 
 Le résultat final est déployé et accessible en ligne.
 
-👉 **Voir la démo :** [Page Web en direct](https://clementbo50.github.io/Exercice---CR-ATION-DE-SITE-WEB-AVEC-)
+👉 **Voir la démo :** [Page Web en direct](https://clementbo50.github.io/Exercice---CR-ATION-DE-SITE-WEB-AVEC-HTML5-ET-CSS3/)
 
 ---
 
